@@ -1,5 +1,5 @@
 {
-  "name": "node-js-docker",
+  "name": "js-docker",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,13 @@
   "type": "commonjs",
   "dependencies": {
     "express": "^5.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amruth-L/DockerPlayground.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Amruth-L/DockerPlayground/issues"
+  },
+  "homepage": "https://github.com/Amruth-L/DockerPlayground#readme"
 }
